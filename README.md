@@ -1,1 +1,1 @@
-# Socila-Distancing
+# Social-Distancing
